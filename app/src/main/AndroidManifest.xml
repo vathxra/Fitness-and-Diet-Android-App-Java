@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myfitup">
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ContactUs"></activity>
+        <activity android:name=".Creator" />
+        <activity android:name=".ActivityCamera" />
+        <activity
+            android:name=".ActivityVege"
+            android:parentActivityName=".MainActivity2" />
+        <activity
+            android:name=".ActivityVegan"
+            android:parentActivityName=".MainActivity2" />
+        <activity
+            android:name=".ActivityKarbo"
+            android:parentActivityName=".MainActivity2" />
+        <activity
+            android:name=".ActivityKeto"
+            android:parentActivityName=".MainActivity2" />
+        <activity
+            android:name=".MainActivity5"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity4"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity3"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity2"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ArmsLevel"
+            android:parentActivityName=".MainActivity3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ArmsLevel1"
+            android:parentActivityName=".ArmsLevel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ArmsLevel2"
+            android:parentActivityName=".ArmsLevel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ArmsLevel3"
+            android:parentActivityName=".ArmsLevel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BootsLevel"
+            android:parentActivityName=".MainActivity3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BootsLevel1"
+            android:parentActivityName=".BootsLevel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BootsLevel2"
+            android:parentActivityName=".BootsLevel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BootsLevel3"
+            android:parentActivityName=".BootsLevel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".LegsLevel"
+            android:parentActivityName=".MainActivity3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".LegsLevel1"
+            android:parentActivityName=".LegsLevel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".LegsLevel2"
+            android:parentActivityName=".LegsLevel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".LegsLevel3"
+            android:parentActivityName=".LegsLevel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BellyLevel"
+            android:parentActivityName=".MainActivity3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BellyLevel1"
+            android:parentActivityName=".BellyLevel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BellyLevel2"
+            android:parentActivityName=".BellyLevel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BellyLevel3"
+            android:parentActivityName=".BellyLevel"
+            android:screenOrientation="portrait" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

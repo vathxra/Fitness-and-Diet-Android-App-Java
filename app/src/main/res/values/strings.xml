@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">My FITUP</string>
+    <string name="list_menuketo">
+        Breakfast :\n
+        1. Omelette Mushrooms\n
+        2. Full-fat Yogurt Granola\n
+        3. Milk Pudding\n
+        4. Roasted Avocado with Egg\n
+        \nLunch :\n
+        1. Tomato Salad with Tuna\n
+        2. Beef Cauliflower with Cheese\n
+        3. Salmon Burger\n
+        4. Caesar Salad Chicken\n
+        \nDinner :\n
+        1. Roasted Shrimp with Butter\n
+        2. Roasted Chicken Breast\n
+        3. Stewed Beef Mushrooms\n
+        4. Vegetables Salad with Beef\n
+        \nSnack :\n
+        1. Fruits\n
+        2. Cheese\n
+        3. Almond\n
+        4. Egg Muffin\n
+    </string>
+
+    <string name="list_menukarbo">
+        Breakfast :\n
+        1. Vegetables with Boiled Egg\n
+        2. Beef Bacon + Vegetables\n
+        3. Omelette Mushroom\n
+        4. Roasted Salmon with Avocado\n
+        \nLunch :\n
+        1. Chicken Salad with Olive Dressing\n
+        2. Grass-fed Yogurt\n
+        3. Shrimp Salad with Olive Dressing\n
+        4. Grilled Fish with Vegetables\n
+        \nDinner :\n
+        1. Protein Milk\n
+        2. Stir-fried Chicken with Paprika\n
+        3. Roasted Salmon with Vegetables\n
+        4. Cheese Burger (no bread)\n
+        \nSnack :\n
+        1. Fruits\n
+        2. Boiled Tempeh or Tofu\n
+        3. Beans\n
+        4. Boiled Broccoli\n
+    </string>
+
+    <string name="list_menuvegan">
+        Breakfast :\n
+        1. Steamed Sweet Potato\n
+        2. Non-Dairy Milk\n
+        3. Cereal\n
+        4. Fruits\n
+        \nLunch :\n
+        1. Whole-Grain Pasta\n
+        2. Baked Tofu\n
+        3. Brown Rice with Spinach\n
+        4. Roasted Asparagus Potato\n
+        \nDinner :\n
+        1. Mac and Cheese\n
+        2. Oat Risotto Mushrooms\n
+        3. Chicken Cauliflower Tacos\n
+        4. Bean, Tomato and Corn Salad\n
+        \nSnack :\n
+        1. Baked Pumpkins\n
+        2. Almond Fruits Salad\n
+        3. Mixed Berries\n
+        4. Walnuts\n
+    </string>
+
+    <string name="list_menuvege">
+        Breakfast :\n
+        1. Wheat Bread with Egg\n
+        2. Oatmeal\n
+        3. Boiled Egg with Avocado\n
+        4. Low-fat Milk\n
+        \nLunch :\n
+        1. Brown Rice Stir-fry Tofu\n
+        2. Vegetables Soup\n
+        3. Pecel\n
+        4. Steamed Pumpkins\n
+        \nDinner :\n
+        1. Vegetables Salad with Boiled Egg\n
+        2. Stir-fried Bok Choy and Tempeh\n
+        3. Stir-fried Broccoli\n
+        4. Stir-fried Tofu and Corn\n
+        \nSnack :\n
+        1. Fruits Juice with Honey\n
+        2. Fruits Salad with Yoghurt\n
+        3. Baked Wheat Bread\n
+        4. Cheese\n
+    </string>
+
+    <string name="about_us">
+        \nFITUP - Healthy Life Happy Life\n
+        \nYour personal fitness and healthy life style organizer.\n
+        \nFounded in 2020, we provide detailed and most effective fat-burning workouts and
+        recipes to maintain your health and weight-loss.\n
+        \nAll workouts and recipes we provide in this application are from our professionals,
+        who had done researches in related scopes and proven effective for 90% example.\n
+    </string>
+    <string name="creator">
+        Creator :\n
+        1. Tamara Anindita Pinastikadewi\n(4518210003).\n
+        2. Rindiani Az-zahradin Putri\n(4518210019).\n
+        3. Anida Maghfiraturrahmah\n(45198210024).\n
+        4. Wiga Utami\n(4518210025).\n
+        5. Vathiya Rezky Aliefasyah\n(4518210034).\n
+    </string>
+    <string name="contact_us">
+        Email : my_fitup2020@gmail.com
+    </string>
+</resources>
